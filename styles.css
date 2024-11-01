@@ -1,0 +1,230 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    /*background: linear-gradient(to bottom right ,  #e98a67 30%, #d2691e 70%);*/
+    color: #522626;
+    background-color: #f8debead;
+}
+
+.heading{
+    text-align: left;
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 15px;
+    background: linear-gradient(to left, #f8c381, #e9aa5d);
+    padding: 10px;
+    height: 300px;
+}
+
+.heading h1{
+    font-size: 100px;
+}
+
+.topnav{
+    margin-left: 10px;
+    margin-top: 260px;
+}
+
+.topnav a{
+  color: #7a4e1a;
+  text-align: center;
+  padding: 5px 20px;
+  text-decoration: none;
+}
+
+#home{
+    font-size: 28px;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #583304;
+    padding: 10px;
+    box-shadow: 5px 10px #d16116de;
+    border-radius: 15px;
+    background: linear-gradient(to left, #f8c381, #e9aa5d);
+}
+
+#about {
+    font-size: 28px;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #d16116de;
+    border-radius: 15px;
+    background: linear-gradient(to left, #f8c381, #e9aa5d);
+}
+
+#article1{
+    margin: 30px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2em;
+    font-size: 25px;
+}
+
+.mission{
+    border-radius: 30px;
+    border: solid ;
+    padding: 15px;
+    background: linear-gradient(to top right, #d16116de, #deb8876c);
+}
+
+.vision{
+    border-radius: 30px;
+    border: solid ;
+    padding: 15px;
+    background: linear-gradient(to top right, #d16116de, #deb8876c);
+}
+
+#article2{
+    margin: 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2em;
+    font-size: 25px;
+}
+
+.employees{
+    grid-column-start: 1;
+    grid-row-end: 3;
+    grid-row-start: 1;
+    border-radius: 30px;
+    padding: 15px;
+    border: solid;
+    background: linear-gradient(to top right, #d16116de, #deb8876c);
+}
+
+.clients{
+    border-radius: 30px;
+    border: solid ;
+    padding: 15px;
+    background: linear-gradient(to top right, #d16116de, #deb8876c);
+}
+
+.professional-ethics{
+    border-radius: 30px;
+    border: solid ;
+    padding: 15px;
+    background: linear-gradient(to top right, #d16116de, #deb8876c);
+}
+
+.professionalism{
+    border-radius: 30px;
+    border: solid ;
+    padding: 15px;
+    background: linear-gradient(to top right, #d16116de, #deb8876c);
+}
+
+#services{
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #d16116de;
+    text-align: center;
+    background: linear-gradient(to left, #f8c381, #e9aa5d);
+}
+
+#services ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+#services ul li {
+    margin: 0;
+    padding: 0;
+  }
+
+#article3{
+    margin: 30px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2em;
+    font-size: 25px;
+}
+
+.debt-recovery{
+    grid-column-start: 1;
+    grid-row-end: 3;
+    grid-row-start: 1;
+    border-radius: 30px;
+    padding: 15px;
+    border: solid;
+    background: linear-gradient(to bottom left, #d16116de, #deb8876c);
+}
+
+.debt-surveillance{
+    border-radius: 30px;
+    border: solid ;
+    padding: 15px;
+    background: linear-gradient(to bottom left, #d16116de, #deb8876c);
+}
+
+.investigation{
+    border-radius: 30px;
+    border: solid ;
+    padding: 15px;
+    background: linear-gradient(to bottom left, #d16116de, #deb8876c);
+}
+
+.consultancy{
+    border-radius: 30px;
+    border: solid ;
+    padding: 15px;
+    background: linear-gradient(to bottom left, #d16116de, #deb8876c);
+}
+
+.process-server{
+    border-radius: 30px;
+    border: solid ;
+    padding: 15px;
+    background: linear-gradient(to bottom left, #d16116de, #deb8876c);
+}
+
+.reconciliation{
+    border-radius: 30px;
+    border: solid ;
+    padding: 15px;
+    background: linear-gradient(to bottom left, #d16116de, #deb8876c);
+}
+
+.asset-searches{
+    border-radius: 30px;
+    border: solid ;
+    padding: 15px;
+    background: linear-gradient(to bottom left, #d16116de, #deb8876c);
+}
+
+#contact{
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #d16116de;
+    background: linear-gradient(to left, #f8c381, #e9aa5d);
+}
+address{
+    display: flex;
+    flex-direction: row;
+}
+
+footer{
+    text-align: center;
+    font-size: 29px;
+    margin-top: 50px;
+    font-weight: 500;
+    color: #483d8b;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    color: #483d8b;
+    margin-top: 20px;
+}
