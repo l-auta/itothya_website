@@ -14,7 +14,7 @@ body{
     display: flex;
     flex-direction: row;
     border-radius: 15px;
-    background: linear-gradient(to left, #f8c381, #e9aa5d);
+    background: linear-gradient(to left, #f8c381, #ffcf94);
     padding: 10px;
     height: 300px;
 }
@@ -41,9 +41,9 @@ body{
     padding: 10px;
     border: 1px solid #583304;
     padding: 10px;
-    box-shadow: 5px 10px #d16116de;
+    box-shadow: 5px 10px #e49f70fa;
     border-radius: 15px;
-    background: linear-gradient(to left, #f8c381, #e9aa5d);
+    background: linear-gradient(to left, #f8c381, #ffcf94);
 }
 
 #about {
@@ -52,9 +52,9 @@ body{
     padding: 10px;
     border: 1px solid;
     padding: 10px;
-    box-shadow: 5px 10px #d16116de;
+    box-shadow: 5px 10px #e49f70fa;
     border-radius: 15px;
-    background: linear-gradient(to left, #f8c381, #e9aa5d);
+    background: linear-gradient(to left, #f8c381, #ffcf94);
 }
 
 #article1{
@@ -69,14 +69,14 @@ body{
     border-radius: 30px;
     border: solid ;
     padding: 15px;
-    background: linear-gradient(to top right, #d16116de, #deb8876c);
+    background: linear-gradient(to top right, #e49f70fa, #deb8876c);
 }
 
 .vision{
     border-radius: 30px;
     border: solid ;
     padding: 15px;
-    background: linear-gradient(to top right, #d16116de, #deb8876c);
+    background: linear-gradient(to top right, #e49f70fa, #deb8876c);
 }
 
 #article2{
@@ -94,28 +94,28 @@ body{
     border-radius: 30px;
     padding: 15px;
     border: solid;
-    background: linear-gradient(to top right, #d16116de, #deb8876c);
+    background: linear-gradient(to top right, #e49f70fa, #deb8876c);
 }
 
 .clients{
     border-radius: 30px;
     border: solid ;
     padding: 15px;
-    background: linear-gradient(to top right, #d16116de, #deb8876c);
+    background: linear-gradient(to top right, #e49f70fa, #deb8876c);
 }
 
 .professional-ethics{
     border-radius: 30px;
     border: solid ;
     padding: 15px;
-    background: linear-gradient(to top right, #d16116de, #deb8876c);
+    background: linear-gradient(to top right, #e49f70fa, #deb8876c);
 }
 
 .professionalism{
     border-radius: 30px;
     border: solid ;
     padding: 15px;
-    background: linear-gradient(to top right, #d16116de, #deb8876c);
+    background: linear-gradient(to top right, #e49f70fa, #deb8876c);
 }
 
 #services{
@@ -124,9 +124,9 @@ body{
     border-radius: 15px;
     border: 1px solid;
     padding: 10px;
-    box-shadow: 5px 10px #d16116de;
+    box-shadow: 5px 10px #e49f70fa;
     text-align: center;
-    background: linear-gradient(to left, #f8c381, #e9aa5d);
+    background: linear-gradient(to left, #f8c381, #ffcf94);
 }
 
 #services ul {
@@ -155,49 +155,49 @@ body{
     border-radius: 30px;
     padding: 15px;
     border: solid;
-    background: linear-gradient(to bottom left, #d16116de, #deb8876c);
+    background: linear-gradient(to bottom left, #e49f70fa, #deb8876c);
 }
 
 .debt-surveillance{
     border-radius: 30px;
     border: solid ;
     padding: 15px;
-    background: linear-gradient(to bottom left, #d16116de, #deb8876c);
+    background: linear-gradient(to bottom left, #e49f70fa, #deb8876c);
 }
 
 .investigation{
     border-radius: 30px;
     border: solid ;
     padding: 15px;
-    background: linear-gradient(to bottom left, #d16116de, #deb8876c);
+    background: linear-gradient(to bottom left, #e49f70fa, #deb8876c);
 }
 
 .consultancy{
     border-radius: 30px;
     border: solid ;
     padding: 15px;
-    background: linear-gradient(to bottom left, #d16116de, #deb8876c);
+    background: linear-gradient(to bottom left, #e49f70fa, #deb8876c);
 }
 
 .process-server{
     border-radius: 30px;
     border: solid ;
     padding: 15px;
-    background: linear-gradient(to bottom left, #d16116de, #deb8876c);
+    background: linear-gradient(to bottom left, #e49f70fa, #deb8876c);
 }
 
 .reconciliation{
     border-radius: 30px;
     border: solid ;
     padding: 15px;
-    background: linear-gradient(to bottom left, #d16116de, #deb8876c);
+    background: linear-gradient(to bottom left, #e49f70fa, #deb8876c);
 }
 
 .asset-searches{
     border-radius: 30px;
     border: solid ;
     padding: 15px;
-    background: linear-gradient(to bottom left, #d16116de, #deb8876c);
+    background: linear-gradient(to bottom left, #e49f70fa, #deb8876c);
 }
 
 #contact{
@@ -206,8 +206,8 @@ body{
     border-radius: 15px;
     border: 1px solid;
     padding: 10px;
-    box-shadow: 5px 10px #d16116de;
-    background: linear-gradient(to left, #f8c381, #e9aa5d);
+    box-shadow: 5px 10px #e49f70fa;
+    background: linear-gradient(to left, #f8c381, #ffcf94);
 }
 address{
     display: flex;
